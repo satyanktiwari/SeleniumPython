@@ -6,7 +6,7 @@ def sum(a,b):
                          [
                              (2,3,5),
                              (-1,-1,-2),
-                             (-2,3,1)
+                             (-2,3,5)
                          ])
 def test_calc_sum_1(input1,input2,output):
     result = sum(input1,input2)
